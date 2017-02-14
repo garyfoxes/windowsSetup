@@ -14,7 +14,18 @@ Then add your private key to the ssh-agent
 
 Or you can create a config file and add details of the host, private key e.g
  host github.cartrawler.com
- HostName hostName url
+ HostName hostNameUrl(to be safe use the same name as the host)
  IdentityFile ~/.ssh/git_private
  User git
  IdentitiesOnly yes
+ 
+ There are alternate answers here which are good
+ http://stackoverflow.com/questions/4565700/specify-private-ssh-key-to-use-when-executing-shell-command-with-or-without-ruby
+ 
+ 
+ Install Maven Here
+ http://maven.apache.org/install.html
+ Use apache-maven-3.*.*-bin.zip
+ Extract to a folder in program File e.g ProgramFiles/Maven
+ 
+ 

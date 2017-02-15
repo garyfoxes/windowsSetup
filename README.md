@@ -28,4 +28,17 @@ Or you can create a config file and add details of the host, private key e.g
  Use apache-maven-3.*.*-bin.zip
  Extract to a folder in program File e.g ProgramFiles/Maven
  
+ Install Ruby Here
+ https://rubyinstaller.org/
+ 
+ Envionment Variables:
+ Set JAVA_HOME M2_HOME to the location of the packages, for Java its the jdk, for maven its the root directory e.g .C:\Program    Files\Maven\apache-maven-3.3.9
+ In the path variable add the %JAVA_HOME%\bin;%M2_HOME%\bin
+ 
+ Using Putty and Pagent(Used it with source tree for using ssh keys)
+ https://www.digitalocean.com/community/tutorials/how-to-use-pageant-to-streamline-ssh-key-authentication-with-putty
+ 
+ 
+ 
+ 
  

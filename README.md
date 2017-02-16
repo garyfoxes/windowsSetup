@@ -43,9 +43,12 @@ Or you can create a config file and add details of the host, private key e.g
  Install version 2.7
  
 # If having problems with npm install do the following
- run in administrator privileged command prompt window 
+ run in administrator privileged command prompt window
+ 
  npm install --global --production windows-build-tools
+ 
  npm install --python=python2.7
+ 
  
 # Installing Node 
 https://nodejs.org/en/download/

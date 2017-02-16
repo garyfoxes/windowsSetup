@@ -34,12 +34,12 @@ Or you can create a config file and add details of the host, private key e.g
  Extract to a folder in program File e.g ProgramFiles/Maven
  
  
- # Install Ruby Here
+# Install Ruby Here
  
  https://rubyinstaller.org/
  
  
- # Envionment Variables:
+# Envionment Variables:
  
  Set JAVA_HOME M2_HOME to the location of the packages, for Java its the jdk, for maven its the root directory e.g .C:\Program        Files\Maven\apache-maven-3.3.9
  

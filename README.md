@@ -1,7 +1,9 @@
- # Java Install
+# Java Install
+
 http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html (Check for operating system bit in Control Panel\System and Security\System, probably 64 bit)
 
- # Git Install
+# Git Install
+
 Install Git https://git-scm.com/download/win
 Can right click to start git bash
 
@@ -23,15 +25,18 @@ Or you can create a config file and add details of the host, private key e.g
  http://stackoverflow.com/questions/4565700/specify-private-ssh-key-to-use-when-executing-shell-command-with-or-without-ruby
  
  
- # Install Maven Here
+# Install Maven Here
+
  http://maven.apache.org/install.html
  Use apache-maven-3.*.*-bin.zip
  Extract to a folder in program File e.g ProgramFiles/Maven
  
  # Install Ruby Here
+ 
  https://rubyinstaller.org/
  
-# Envionment Variables:
+ # Envionment Variables:
+ 
  Set JAVA_HOME M2_HOME to the location of the packages, for Java its the jdk, for maven its the root directory e.g .C:\Program        Files\Maven\apache-maven-3.3.9
  In the path variable add the %JAVA_HOME%\bin;%M2_HOME%\bin
  

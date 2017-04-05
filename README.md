@@ -72,6 +72,18 @@ set the prefix in programfiles\node\nodemodules\npmrc to C:\Users\gfox\AppData\R
 set environment variable path to C:\Users\gfox\AppData\Roaming\npm
 
 
+ # Installing Android SDK
+ Install Android Studio here https://developer.android.com/studio/index.html?gclid=CjwKEAjwq5LHBRCN0YLf9-GyywYSJAAhOw6mxkgZYqmyZYtwuDsIzdzirlrF7MvxqW3sD6Ho4sU30RoCtZTw_wcB
  
+ There is a sdk manager and avd manager in there when you install.
+ 
+ Alternatively you can down load the command line tools here at the same link(located at the bottom of the page)
+ 
+ Create environment variables for where sdk is located (if use android studio it is located in C:\Users\gfox\AppData\Local\Android\sdk)
+ 
+ Add Environment Variables set ANDROID_HOME to C:\Users\gfox\AppData\Local\Android\sdk
+ And add to path %ANDROID_HOME%\tools %ANDROID_HOME%\platform_tools 
+ 
+ If you cannot use Haxm when creating an avd start up the BIOS on reboot either f1 or f11 -> go to BIOS and in one of the tabs there is an option for enabling Hardware acceleration.
  
  

@@ -75,6 +75,8 @@ set environment variable path to C:\Users\gfox\AppData\Roaming\npm
  # Installing Android SDK
  Install Android Studio here https://developer.android.com/studio/index.html?gclid=CjwKEAjwq5LHBRCN0YLf9-GyywYSJAAhOw6mxkgZYqmyZYtwuDsIzdzirlrF7MvxqW3sD6Ho4sU30RoCtZTw_wcB
  
+ On Mac if you cannot launch the dmg can launch through the command line via https://apple.stackexchange.com/questions/73926/is-there-a-command-to-install-a-dmg
+ 
  There is a sdk manager and avd manager in there when you install.
  
  Alternatively you can down load the command line tools here at the same link(located at the bottom of the page)

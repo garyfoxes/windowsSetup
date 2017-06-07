@@ -86,4 +86,4 @@ set environment variable path to C:\Users\gfox\AppData\Roaming\npm
  
  If you cannot use Haxm when creating an avd start up the BIOS on reboot either f1 or f11 -> go to BIOS and in one of the tabs there is an option for enabling Hardware acceleration.
  
- 
+ https://support.lenovo.com/ie/en/solutions/ht500006 for setup with lenovo
